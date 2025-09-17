@@ -1,0 +1,14 @@
+fashion-mnist-gan/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── src/
+│   ├── gan.py
+│   └── utils.py
+├── notebooks/
+│   └── FashionMNIST_GAN.ipynb
+├── data/
+│   └── README.md
+└── assets/
+    └── example.png
